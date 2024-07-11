@@ -4,3 +4,5 @@ settings.py
 .idea/
 env/
 __pycache__/
+test.py
+token_git.txt
